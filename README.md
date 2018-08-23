@@ -1,2 +1,2 @@
 # Simple Baselines for Human Pose Estimation and Tracking
-Code will come soon
+The project has moved to https://github.com/Microsoft/human-pose-estimation.pytorch
